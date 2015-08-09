@@ -1,0 +1,45 @@
+Alice480 Documentation Outline
+	What is the Alice Contest Web App,
+		purpose - for alice programming competition 
+		to replace a broken system
+		current usage of web app
+		potential growth of the program and thus the need for a better app that will growth will the program
+		
+	 
+	Technologies used
+		Lamp
+		bootstrap
+		why used 
+		
+	Types of Users Expected
+		Describe in Intro Description
+		Actors
+			students
+			teachers
+			admins
+			judges
+	
+	Term definitions
+	Describe groups permissions
+	
+	
+	Meeting Log with Professors
+	Time Sheets
+	
+	How does the project work?
+	Functionality of the Project:
+	(what are the functions)
+		Login/Create Account
+		Create contests
+		
+		
+	UI explanation -
+		Balsami mock up include
+		or screenshots
+		
+	UML diagrams?
+		Usecase diagrams
+		Sequence diagram
+	
+	Include DB visual tables. 
+	
